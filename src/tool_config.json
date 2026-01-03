@@ -1,0 +1,5 @@
+{
+  "description": "This is a tool to send push messages.",
+  "name": "push_notification",
+  "tool_class": "push_notification.PushNotificationTool"
+}
