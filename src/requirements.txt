@@ -3,4 +3,4 @@ torch
 accelerate
 bs4
 exponent_server_sdk
-gradio>=4.0.0
+gradio>=4.44.0
